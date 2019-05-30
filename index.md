@@ -1,38 +1,20 @@
 ## View My Resume
 
-1. View my full chonological resume which contains quite a bit of detail on my experience. [Download](https://github.com/larryruh/jobsearch/blob/master/LarryRuhMgmtResume2019.docx?raw=true)
-2. View my functional resume which spells out my current app dev skills and outlines my job experience. [Download](https://github.com/larryruh/jobsearch/blob/master/LarryRuhResume2019.docx?raw=true)
+1. View my full chonological resume which contains detailed job experience. [Download](https://github.com/larryruh/jobsearch/blob/master/LarryRuhMgmtResume2019.docx?raw=true)
+2. View my functional resume which spells out my current app dev skills and summarizes job experience. [Download](https://github.com/larryruh/jobsearch/blob/master/LarryRuhResume2019.docx?raw=true)
 
 ## Jobsearch! side project
 
+Jobsearch! is a project I worked on while I was laid off to get my technical skills back in shape. It outlines all aspects of an agile project as I have experience in almost every role on an agile team, I wanted to demonstrate my hands on knowledge of all areas from stakeholder to core team roles to implementation manager. 
 
+1. I have fully documented the project and you can [download and read about it here] (https://github.com/larryruh/jobsearch/blob/master/ReadMe.docx?raw=true)
+2. You can view the source code and even fork or clone and implement it [here] (https://github.com/larryruh/jobsearch/)
+3. Unfortunately the system is not available online as I dont have a public site, it runs only on my localhost. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your test Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/larryruh/larryruh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Larry Ruh**<br/> 
+*(402)212-5735*<br/> 
+*larry@ljruh.com*<br/>
+[https://www.linkedin.com/in/larry-ruh] https://www.linkedin.com/in/larry-ruh<br/>
+[https://github.com/larryruh] https://github.com/larryruh<br/>
