@@ -5,14 +5,15 @@
 
 ## Jobsearch! side project
 
-Jobsearch! is a project I worked on while I was laid off to get my technical skills back in shape. It outlines all aspects of an agile project as I have experience in almost every role on an agile team, I wanted to demonstrate my hands on knowledge of all areas from stakeholder to core team roles to implementation manager. 
+Jobsearch! is a project I worked on while I was laid off to help make my job search more efficient and get my technical skills back in shape. It outlines all aspects of an agile project as I have experience in almost every role on an agile team, I wanted to demonstrate my hands on knowledge of all areas from stakeholder to core team roles to implementation manager. 
 
 1. I have fully documented the project and you can [download and read about it here](https://github.com/larryruh/jobsearch/blob/master/ReadMe.docx?raw=true)
 2. You can view the source code and even fork or clone and implement it [here](https://github.com/larryruh/jobsearch/)
 3. Unfortunately the system is not available online as I dont have a public site, it runs only on my localhost. 
 
-# I AM Looking for a job!
-I am currently on a contract in the QA area, however, my passion lies with app dev, and app dev management, I am currently trying to get back into the technical arena and am interested in any opportunities to do so. I am also interested in re-locating to a warmer location (TX, FL, AZ, Las Vegas, SC, NC, GA, Etc). I'm open to discussing any opportunities. 
+## I AM Looking for my next long term opportunity!
+
+I am currently on contract, however, I'm looking for a more permanent positon as an Application Development/Delivery Manager or Application Developer. I am also interested in re-locating to a warmer location (TX, FL, AZ, Las Vegas, SC, NC, GA, Etc) but I'm open to discussing any opportunities that meet my search criteria.  
 
 ## Contact Me
 
