@@ -1,10 +1,11 @@
 ## View My Resume
 
-You can use the [editor on GitHub](https://github.com/larryruh/larryruh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. View my full chonological resume which contains quite a bit of detail on my experience. [Click Here] (https://github.com/larryruh/jobsearch/LarryRuhMgmtResume2019.docx)
+2. View my functional resume which spells out my current app dev skills and outlines my job experience. [Click Here](https://github.com/larryruh/jobsearch/LarryRuhResume2019.docx)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Jobsearch! side project
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
