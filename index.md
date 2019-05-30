@@ -1,7 +1,7 @@
 ## View My Resume
 
-1. View my full chonological resume which contains quite a bit of detail on my experience. [Click Here] (https://github.com/larryruh/jobsearch/LarryRuhMgmtResume2019.docx)
-2. View my functional resume which spells out my current app dev skills and outlines my job experience. [Click Here](https://github.com/larryruh/jobsearch/LarryRuhResume2019.docx)
+1. View my full chonological resume which contains quite a bit of detail on my experience. [Click Here](https://github.com/larryruh/jobsearch/blob/master/LarryRuhMgmtResume2019.docx)
+2. View my functional resume which spells out my current app dev skills and outlines my job experience. [Click Here] (https://github.com/larryruh/jobsearch/blob/master/LarryRuhResume2019.docx)
 
 ## Jobsearch! side project
 
