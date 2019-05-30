@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## View My Resume
 
 You can use the [editor on GitHub](https://github.com/larryruh/larryruh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
