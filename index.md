@@ -13,7 +13,60 @@ Jobsearch! is a project I worked on while I was laid off to help make my job sea
 
 ## Skills Matrix
 
+### Technical Skills
 
+| Skill         | Experience    | Notes                           |
+| ------------- | --------------| --------------------------------|
+| ANSI SQL      | 22 Years      |                                 |
+| Oracle        | 10 Years      |                                 |
+| Oracle PL/SQL | 10 Years      |                                 |
+| Oracle Forms  | 2 Years       |                                 |
+| SQL Server    | 5 Years       |                                 |
+| MySQL         | 1 Year        |                                 |
+| Java 8        | < 1 Year      | Managed env., Lots of training, Side Project, Selenium, #1 priority to get experience in|
+| Javacript     | 17 Years      |                                 |
+| JQuery        | < 1 Year      | Training + Side Project         |
+| HMTL          | 19 Years      |                                 |
+| CSS           | 15 Years      |                                 |
+| PHP           | 1 Year        |                                 |
+| ASP           | 17 years      |                                 |
+| Cold Fusion   | 5 Years       | It's been a while               |
+| VBScript      | 5-8 Years     | Off and on, its been a while    |
+| Visual Basic  | 3 Years       | Its been a while                |
+| Selenium      | < 1 Year      | Training + Side Project, Managed Env.  |
+| Git/GitHub    | 1 Year        | You're looking at it :)         |
+| Subversion    | 6 Years       |                                 |
+| Cucumber      | < 1 Year      | Training                        |
+| Jenkins       | < 1 Year      | Working on it                   |
+| App Dev       | 22+ Years     | Overall                         |
+| Design/Arch.  | 15+ Years     | Overall                         |
+| QA            | 3+ Years      | Overall                         |
+| QA Automation | 1 Years       | Transition, Training, Managed Env.|
+| DevOps        | 2 Years       | Transition, Training, Managed Env.|
+
+### Management/Process Skills
+
+| Skill                  | Experience    | Notes                           |
+| -------------          | --------------| --------------------------------|
+| IT Management          | 8 Years       |                                 |
+| Tech Lead              | 5-7 Years     |                                 |
+| Entreprenuer           | 8 Years       | ISC Hosting, Anytime Fitness    |
+| SDLC - Waterfall       | 20 Years +-   |                                 |
+| SDLC - Agile           | 4 Years       | Tranformation, Managed Env      |
+| Scrum Master           | < 1 Year      | Certified, Managed              |
+| Product Owner          | < 1 Year      | Certified, partnered with POs   |
+| Resource Management    | 8 Years       |                                 |
+| Process Improvement    | 20 Years      | Everywhere I go!                |
+| IT Budgeting           | 2 Years       |                                 |
+| Strategic Planning     | 2 Years       |                                 |
+| Team Building          | 8 Years       |                                 |
+| Vendor Management      | 4 Years       |                                 |
+| Insurance Industry     | 14 years      |                                 |
+| Transportation Industry| 2+ Years      | Werner Enterprises              |
+| Technical Services Ind.| 5 Years       | ISC Hosting, CGS, First Data    |
+| Arch/Engineering Ind.  | 2+ Years      | HDR                             |
+| ITIL                   | 14 Years      | Certified                       |
+| Bureaucracy Navigation | 20 Years      | Hey, its a skill :)             |
 
 ## I AM Looking for my next long term opportunity!
 
