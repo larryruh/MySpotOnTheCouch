@@ -24,7 +24,7 @@ Jobsearch! is a project I worked on while I was laid off to help make my job sea
 | SQL Server    | 5 Years       |                                 |
 | MySQL         | 1 Year        |                                 |
 | Java 8        | < 1 Year      | Managed env., Lots of training, Side Project, Selenium, #1 priority to get experience in|
-| Javacript     | 17 Years      |                                 |
+| Javascript    | 17 Years      |                                 |
 | JQuery        | < 1 Year      | Training + Side Project         |
 | HMTL          | 19 Years      |                                 |
 | CSS           | 15 Years      |                                 |
