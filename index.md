@@ -41,7 +41,7 @@ Jobsearch! is a project I worked on while I was laid off to help make my job sea
 | App Dev       | 22+ Years     | Overall                         |
 | Design/Arch.  | 15+ Years     | Overall                         |
 | QA            | 3+ Years      | Overall                         |
-| QA Automation | 1 Years       | Transition, Training, Managed Env.|
+| QA Automation | 1 Year        | Transition, Training, Managed Env.|
 | DevOps        | 2 Years       | Transition, Training, Managed Env.|
 
 ### Management/Process Skills
@@ -61,11 +61,12 @@ Jobsearch! is a project I worked on while I was laid off to help make my job sea
 | Strategic Planning     | 2 Years       |                                 |
 | Team Building          | 8 Years       |                                 |
 | Vendor Management      | 4 Years       |                                 |
-| Insurance Industry     | 14 years      |                                 |
+| Insurance Industry     | 14 years      | Lincoln Financial               |
 | Transportation Industry| 2+ Years      | Werner Enterprises              |
 | Technical Services Ind.| 5 Years       | ISC Hosting, CGS, First Data    |
 | Arch/Engineering Ind.  | 2+ Years      | HDR                             |
 | ITIL                   | 14 Years      | Certified                       |
+| Communication/Partner  | Excellent     | #1 skill in business and management!|
 | Bureaucracy Navigation | 20 Years      | Hey, its a skill :)             |
 
 ## I AM Looking for my next long term opportunity!
