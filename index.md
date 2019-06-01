@@ -79,4 +79,4 @@ I am currently on contract, however, I'm looking for a more permanent positon as
 *(402)212-5735*<br/> 
 *larry@ljruh.com*<br/>
 [https://www.linkedin.com/in/larry-ruh](https://www.linkedin.com/in/larry-ruh)<br/>
-[https://github.com/larryruh](https://github.com/larryruh)<br/>
+[https://larryruh.github.io](https://larryruh.github.io)<br/>
