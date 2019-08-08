@@ -73,6 +73,9 @@ Jobsearch! is a project I worked on while I was laid off to help make my job sea
 
 I am currently on contract, however, I'm looking for a more permanent positon as an Application Development/Delivery Manager or Application Developer. More specifically, I'm interested in any Web work, or getting some more Java experience. I am also interested in re-locating to a warmer location (TX, FL, AZ, Las Vegas, SC, NC, GA, Etc). I'm open to discussing any and all opportunities that meet my search criteria.  
 
+## View My Source Code Repos
+[Github Repo Library] (https://www.github.com/larryruh
+
 ## Contact Me
 
 **Larry Ruh**<br/> 
